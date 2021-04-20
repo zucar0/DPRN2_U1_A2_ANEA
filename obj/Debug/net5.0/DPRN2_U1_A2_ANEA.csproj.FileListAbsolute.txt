@@ -1,0 +1,16 @@
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\DPRN2_U1_A2_ANEA.exe
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\DPRN2_U1_A2_ANEA.deps.json
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\DPRN2_U1_A2_ANEA.runtimeconfig.json
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\DPRN2_U1_A2_ANEA.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\DPRN2_U1_A2_ANEA.dll
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\ref\DPRN2_U1_A2_ANEA.dll
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\bin\Debug\net5.0\DPRN2_U1_A2_ANEA.pdb
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.AssemblyInfo.cs
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.dll
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\ref\DPRN2_U1_A2_ANEA.dll
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.pdb
+C:\Users\anton\OneDrive\UNADM\2021-2\Programacion net II - DS-DPRN2-2101-B2-001\Unidad 1\DPRN2_U1_A2_ANEA\obj\Debug\net5.0\DPRN2_U1_A2_ANEA.genruntimeconfig.cache
